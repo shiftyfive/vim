@@ -1,0 +1,9 @@
+[submodule "pack/my-plugins/start/nerdtree"]
+	path = pack/my-plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/my-plugins/start/YouCompleteMe"]
+	path = pack/my-plugins/start/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "/Users/joshua/.vim/pack/my-plugins/start/vim-tmux-navigator"]
+	path = /Users/joshua/.vim/pack/my-plugins/start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
