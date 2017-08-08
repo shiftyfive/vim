@@ -7,3 +7,6 @@
 [submodule "/Users/joshua/.vim/pack/my-plugins/start/vim-tmux-navigator"]
 	path = /Users/joshua/.vim/pack/my-plugins/start/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "pack/my-plugins/start/vim-autoswap"]
+	path = pack/my-plugins/start/vim-autoswap
+	url = https://github.com/gioele/vim-autoswap.git
